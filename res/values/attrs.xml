@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="SmartImageView">
+        <attr name="onLoading" format="reference" />
+        <attr name="onFail" format="reference" />
+    </declare-styleable>
+
+</resources>
